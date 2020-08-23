@@ -1,6 +1,6 @@
 # Trees
 
-This code implements basic functions of a Binary Search Tree.
+This code implements some major functions of a Binary Search Tree.
 
 
 ### Basic Tree Operations
